@@ -1,3 +1,5 @@
 Ini adalah fitur navigasi
 Home
 Profile
+Contact Us
+About Us
