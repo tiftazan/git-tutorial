@@ -2,5 +2,10 @@ Colors
 -Red
 -Green
 -Blue
+<<<<<<< HEAD
 -Yellow
 -Cyan
+=======
+-Michael
+-Cherry
+>>>>>>> his-branch
