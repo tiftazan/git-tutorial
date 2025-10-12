@@ -2,3 +2,5 @@ Colors
 -Red
 -Green
 -Blue
+-Michael
+-Cherry
